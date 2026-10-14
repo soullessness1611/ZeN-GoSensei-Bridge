@@ -1,0 +1,46 @@
+ZeN KataGo Bridge — Source-Available License
+=============================================
+
+Copyright (c) 2026 Patiwat Nakara (SouLLeSSNesS). All rights reserved.
+https://github.com/soullessness1611
+
+The file zen-katago-bridge.mjs and the other files in this repository (the
+"Software") are part of ZeN-GoSensei and are published so that users can read
+and audit exactly what runs on their computer.
+
+PERMITTED
+---------
+You may, free of charge:
+  1. download the Software;
+  2. read, inspect and audit its source code;
+  3. run the Software, unmodified, on your own computer solely to connect the
+     ZeN-GoSensei web application (https://zen-gosensei.vercel.app) to a
+     KataGo engine installed on that computer.
+
+NOT PERMITTED
+-------------
+Without the prior written permission of the copyright holder you may not:
+  - copy, modify, adapt, translate or create derivative works of the Software
+    or any part of it, including incorporating any part of it into other
+    software;
+  - publish, distribute, sublicense, sell, rent or otherwise make the Software
+    or any part of it available to others (point them to this repository
+    instead);
+  - remove or alter this license or the copyright notice.
+
+THIRD-PARTY SOFTWARE
+--------------------
+KataGo (https://github.com/lightvector/KataGo, MIT License) is NOT included
+and is downloaded separately by the user under its own license. The Software
+only starts the KataGo program the user has configured.
+
+NO WARRANTY
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Any use not expressly permitted above requires written permission.
